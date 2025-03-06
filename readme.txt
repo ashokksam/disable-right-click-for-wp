@@ -9,7 +9,7 @@ Tested up to: 6.7.2
 Stable tag: 1.1.6
 Version: 1.0.0
 License: GPLv2 or later
-Donate link: https://www.paypal.me/kumawatashok21
+
 
 == Description ==
 
